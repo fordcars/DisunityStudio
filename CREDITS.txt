@@ -1,0 +1,34 @@
+Thanks to:
+FreeSFX for crash car sound effect! http://www.freesfx.co.uk
+http://www.partnersinrhyme.com/soundfx/car_sounds/BMW_DRIVEBY.shtml for bus sound (BMW_DRIVEBY.WAV)
+
+For stickman model:
+- http://tf3dm.com/3d-model/stickman-with-fingers-29144.html
+- NON-COMERCIAL!
+
+For various textues:
+- Propaganda:
+-- http://abcnews.go.com/blogs/headlines/2011/12/north-korean-propaganda-posters/
+-- http://ownieu.6x9.fr/2011/06/23/two-centuries-of-propaganda-in-posters/index.html
+-- http://www.examiner.com/article/dempsey-denounces-north-korea-s-peaceful-satellite-launch
+-- http://www.wnd.com/2014/11/u-s-special-forces-train-for-north-korea-mission/
+-- http://swling.com/blog/tag/north-korea-shortwave/
+-- http://po-ru.com/diary/ruby-propaganda/
+-- http://thediplomat.com/2015/07/north-korea-a-passion-for-propaganda-posters/
+
+Other textures:
+-- Asphalt: Johannes Andersson Licensed under Creative Commons 3.0
+-- Bark: http://ivangraphics.deviantart.com/art/Tree-bark-texture-pattern-208493997 by ivangraphics (rights are good)
+-- Brick wall: Vincent at http://www.highresolutiontextures.com/stone-wall-brick-wall-free-textures
+-- Broken glass: http://www.sebanfilm.com/broken_glass.jpg
+-- Concrete: Johannes Andersson Licensed under Creative Commons 3.0
+-- Wood: http://designreflect.com/free-wood-textures/
+-- Kim Il-sung picture: https://en.wikipedia.org/wiki/Kim_Il-sung#/media/File:Kim_Il_Sung_Portrait-2.jpg
+-- Kim Jong-il picture: https://en.wikipedia.org/wiki/Kim_Jong-il#/media/File:Kim_Jong_il_Portrait.jpg
+-- Leaves 1: http://www.123rf.com/photo_20351680_green-leaves-wall-texture-background-fukien-tea-tree.html
+-- Leaves 2: http://www.photos-public-domain.com/category/holidays_seasons/autumn/
+-- Old window: http://14textures.com/older-large-white-window-texture/
+-- Rock: http://texturemate.com/content/free-rock-texture-19-11-2011-003?page=26
+-- Grass: goodtextures
+-- Skybox: http://jones.felk.cvut.cz/redmine/projects/tacticalenvironment/repository/revisions/250b25eb9c04 (not sure what licensing is for this one)
+-- Vintage wallpaper: http://lostandtaken.com/blog/2009/6/3/vintage-damask-textures-part-ii.html

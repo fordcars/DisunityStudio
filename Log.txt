@@ -1,0 +1,9 @@
+Starting SDL3D v0.1!
+Graphics: 4.3 (Core Profile) Mesa 20.3.0-devel (git-efff734 2020-09-15 bionic-oibaf-ppa)
+Your system seems to be compatible with the game!
+SDL message (most of the time you can ignore these): Couldn't open /etc/timidity/freepats.cfg
+Initialization finished!
+Starting Disunity Studio...
+
+Warning: Cannot add ObjectGeometryGroup at 'suzanne.obj': Resource already exists in database.
+Game quit successfully.

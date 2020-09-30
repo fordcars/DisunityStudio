@@ -1,0 +1,1 @@
+For these pre-supplied fonts, the DDS textures have no filtering (nearest-neighbour pre-calculated mimaps), while the BMP textures have linear filtering from the automatically generated mipmaps (by OpenGL).
