@@ -1,0 +1,3 @@
+[submodule "resources/scripts/lib/Disunity"]
+	path = resources/scripts/lib/Disunity
+	url = https://github.com/fordcars/Disunity
